@@ -409,6 +409,7 @@ body {
     min-height: 40px;
     border-radius: 7px;
     cursor: pointer;
+    outline: none;
 }
 
 .prices-card-btn:hover {
